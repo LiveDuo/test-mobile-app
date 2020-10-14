@@ -6,7 +6,7 @@ export default class App extends Component {
     return (
       <View style={styles.container}>
         <Text style={styles.paragraph}>
-          This is dynamic hello aa323333!
+          This is dynamic hello as!
         </Text>
       </View>
     );
