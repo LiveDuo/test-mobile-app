@@ -6,7 +6,7 @@ export default class App extends Component {
     return (
       <View style={styles.container}>
         <Text style={styles.paragraph}>
-          Hello world 334
+          Hello world
         </Text>
         <Text style={styles.paragraph}>
           New element
