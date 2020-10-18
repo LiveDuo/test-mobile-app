@@ -8,6 +8,9 @@ export default class App extends Component {
         <Text style={styles.paragraph}>
           New test 2
         </Text>
+        <Text style={styles.paragraph}>
+          New element
+        </Text>
       </View>
     );
   }
