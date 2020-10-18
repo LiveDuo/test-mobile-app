@@ -6,7 +6,7 @@ export default class App extends Component {
     return (
       <View style={styles.container}>
         <Text style={styles.paragraph}>
-          Hey Im edditing new2asd
+          Hey Im edditing new2asd asdasd
         </Text>
       </View>
     );
